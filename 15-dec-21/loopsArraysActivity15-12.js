@@ -43,14 +43,14 @@
 // }
 
 //Activity-6
-let bobsFollowers = ['jim','tim','tom','dom'];
-let hannasFollowers = ['tom', 'pip', 'dom', 'king'];
-let common = [""];
-for(let i=0; i<bobsFollowers.length; i++){
-    for(let j=0; j<hannasFollowers.length; j++){
-        if(hannasFollowers[j]==bobsFollowers[i]){
-            common.push(hannasFollowers[j]);
-        }
-    }
-}
-console.log(`The common followers are ${common.toString()}`);
+// let bobsFollowers = ['jim','tim','tom','dom'];
+// let hannasFollowers = ['tom', 'pip', 'dom', 'king'];
+// let common = [""];
+// for(let i=0; i<bobsFollowers.length; i++){
+//     for(let j=0; j<hannasFollowers.length; j++){
+//         if(hannasFollowers[j]==bobsFollowers[i]){
+//             common.push(hannasFollowers[j]);
+//         }
+//     }
+// }
+// console.log(`The common followers are ${common.toString()}`);
